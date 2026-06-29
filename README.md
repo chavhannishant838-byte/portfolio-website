@@ -6,8 +6,6 @@ This project showcases my journey as a B.Tech Computer Science student and aspir
 
 🚀 Live Demo
 
-Add your deployed website link here:
-
 https://chavhannishant838-byte.github.io/portfolio-website/
 
 📸 Preview
