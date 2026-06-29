@@ -35,13 +35,6 @@ Add a screenshot of your portfolio here.
 
 📂 Project Structure
 
-portfolio-website/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
 🎯 What I Learned
 
 While building this project, I improved my understanding of:
