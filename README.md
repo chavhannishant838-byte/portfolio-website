@@ -6,7 +6,7 @@ This project showcases my journey as a B.Tech Computer Science student and aspir
 
 🚀 Live Demo
 
-nishantcodes.netlify.app
+[nishantcodes.netlify.app](https://nishantcodes.netlify.app/)
 
 📸 Preview
 
